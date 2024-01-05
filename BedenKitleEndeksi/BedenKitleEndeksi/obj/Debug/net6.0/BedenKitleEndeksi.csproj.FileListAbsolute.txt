@@ -1,0 +1,14 @@
+C:\Users\ogune\source\repos\BedenKitleEndeksi\BedenKitleEndeksi\bin\Debug\net6.0\BedenKitleEndeksi.exe
+C:\Users\ogune\source\repos\BedenKitleEndeksi\BedenKitleEndeksi\bin\Debug\net6.0\BedenKitleEndeksi.deps.json
+C:\Users\ogune\source\repos\BedenKitleEndeksi\BedenKitleEndeksi\bin\Debug\net6.0\BedenKitleEndeksi.runtimeconfig.json
+C:\Users\ogune\source\repos\BedenKitleEndeksi\BedenKitleEndeksi\bin\Debug\net6.0\BedenKitleEndeksi.dll
+C:\Users\ogune\source\repos\BedenKitleEndeksi\BedenKitleEndeksi\bin\Debug\net6.0\BedenKitleEndeksi.pdb
+C:\Users\ogune\source\repos\BedenKitleEndeksi\BedenKitleEndeksi\obj\Debug\net6.0\BedenKitleEndeksi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ogune\source\repos\BedenKitleEndeksi\BedenKitleEndeksi\obj\Debug\net6.0\BedenKitleEndeksi.AssemblyInfoInputs.cache
+C:\Users\ogune\source\repos\BedenKitleEndeksi\BedenKitleEndeksi\obj\Debug\net6.0\BedenKitleEndeksi.AssemblyInfo.cs
+C:\Users\ogune\source\repos\BedenKitleEndeksi\BedenKitleEndeksi\obj\Debug\net6.0\BedenKitleEndeksi.csproj.CoreCompileInputs.cache
+C:\Users\ogune\source\repos\BedenKitleEndeksi\BedenKitleEndeksi\obj\Debug\net6.0\BedenKitleEndeksi.dll
+C:\Users\ogune\source\repos\BedenKitleEndeksi\BedenKitleEndeksi\obj\Debug\net6.0\refint\BedenKitleEndeksi.dll
+C:\Users\ogune\source\repos\BedenKitleEndeksi\BedenKitleEndeksi\obj\Debug\net6.0\BedenKitleEndeksi.pdb
+C:\Users\ogune\source\repos\BedenKitleEndeksi\BedenKitleEndeksi\obj\Debug\net6.0\BedenKitleEndeksi.genruntimeconfig.cache
+C:\Users\ogune\source\repos\BedenKitleEndeksi\BedenKitleEndeksi\obj\Debug\net6.0\ref\BedenKitleEndeksi.dll
